@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869931974627",
+    "project_id": "demoproject-cb94c",
+    "storage_bucket": "demoproject-cb94c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869931974627:android:4e6ae3489d5d30bdc5ead6",
+        "android_client_info": {
+          "package_name": "edu.uph.m23si1.demoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4Y9-oLw9Q5ALJD3MbGz1POX_4Nda4ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
